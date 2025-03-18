@@ -27,4 +27,4 @@ Um sorteio de amigo secreto totalmente funcional desenvolvido com JavaScript pur
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/LuizGPatury/Desafio-Amigo-Secreto
