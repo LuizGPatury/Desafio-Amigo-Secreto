@@ -2,7 +2,7 @@
 
 Um sorteio de amigo secreto totalmente funcional desenvolvido com JavaScript puro, focado na aplicação prática de conceitos fundamentais de programação.
 
-![Captura de Tela - Lista de Participantes](C:\Users\lgabr\OneDrive\Área de Trabalho\Prog\challenge-amigo-secreto_pt-main\screenshots\Screenshot_4.png) <!-- Adicione suas imagens -->
+![Captura de Tela - Lista de Participantes](C:\Users\lgabr\OneDrive\Área de Trabalho\Prog\challenge-amigo-secreto_pt-main\screenshots\Screenshot_4.png)
 
 ## 🚀 Funcionalidades Principais
 
